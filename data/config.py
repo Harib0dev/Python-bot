@@ -1,0 +1,18 @@
+BOT_TOKEN = "ТОКЕН БОТА"
+
+
+CHANNEL_ID = ... # за место ... id канала
+USERNAME_FOR_HELP = "ССЫЛКА НА Тех. Поддержку"
+CHANNEL_FOR_HELP = "ССЫЛКА НА КАНАЛ"
+TOPIC_ON_LOLZ_FOR_HELP = "ТЕМА НА LOLZTEAM"
+
+QIWI_KEY = "P2P SECRET KEY"
+
+LOLZ_TOKEN = "ТОКЕН С LOLZTEAM"
+
+CLIENT_SECRET = "95YvCeLj74Zma3SPqyH8SwgzYMtMBj5C8FxPu5xHVExwJBjMn2t7S9L4HADQaAkc"
+
+UR_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArBZ1NNjvszen6BNWsgyDUJvDUZDtvR4jKNQtEwW1iW7hqJr0TdD8hgTxw3DfH+Hi/7ZjSNdH5EfChvgVW9wtTxrvUXCOyJndReq7qNMo94lHpoSIVW82dp4rcDB4kU+q+ekh5rj9Oj6EReCTuXr3foLLBVpH0/z1vtgcCfQzsLlGkSTwgLqASTUsuzfI8viVUbxE1a+600hN0uBh/CYKoMnCp/EhxV8g7eUmNsWjZyiUrV8AA/5DgZUCB+jqGQT/Dhc8e21tAkQ3qan/jQ5i/QYocA/4jW3WQAldMLj0PA36kINEbuDKq8qRh25v+k4qyjb7Xp4W2DywmNtG3Q20MQIDAQAB"
+
+
+# EndSoft - https://t.me/end_soft
